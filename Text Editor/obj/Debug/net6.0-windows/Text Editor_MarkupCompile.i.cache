@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\profile1\Desktop\C# Projects\Text Editor\obj\Debug\net6.0-windows\
+C:\Users\profile1\Documents\GitHub\C# Projects\Text Editor\obj\Debug\net6.0-windows\
 Text_Editor
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\profile1\Desktop\C# Projects\Text Editor\App.xaml
+C:\Users\profile1\Documents\GitHub\C# Projects\Text Editor\App.xaml
 11407045341
 
 5188578759
 194237474483
 MainWindow.xaml;
 
-True
+False
 

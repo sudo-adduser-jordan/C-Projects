@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\profile1\\Desktop\\C# Projects\\Text Editor\\Text Editor.csproj": {}
+    "C:\\Users\\profile1\\Documents\\GitHub\\C# Projects\\Text Editor\\Text Editor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\profile1\\Desktop\\C# Projects\\Text Editor\\Text Editor.csproj": {
+    "C:\\Users\\profile1\\Documents\\GitHub\\C# Projects\\Text Editor\\Text Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\profile1\\Desktop\\C# Projects\\Text Editor\\Text Editor.csproj",
+        "projectUniqueName": "C:\\Users\\profile1\\Documents\\GitHub\\C# Projects\\Text Editor\\Text Editor.csproj",
         "projectName": "Text Editor",
-        "projectPath": "C:\\Users\\profile1\\Desktop\\C# Projects\\Text Editor\\Text Editor.csproj",
+        "projectPath": "C:\\Users\\profile1\\Documents\\GitHub\\C# Projects\\Text Editor\\Text Editor.csproj",
         "packagesPath": "C:\\Users\\profile1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\profile1\\Desktop\\C# Projects\\Text Editor\\obj\\",
+        "outputPath": "C:\\Users\\profile1\\Documents\\GitHub\\C# Projects\\Text Editor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

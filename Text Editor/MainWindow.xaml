@@ -102,7 +102,7 @@
                     Margin="5"
                     Click="OpenButton_Click"/>
             <TextBox Name="txtSearch"
-                     Width="200"
+                     Width="250"
                      Margin="5"
                      Background="Black"
                      Foreground="LimeGreen"/>
